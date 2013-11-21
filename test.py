@@ -6,3 +6,4 @@
 # Logan Hirschi
 # Ryan Barlow
 # Max McCarroll 
+# Smitty Werbenmenjensen (Deyge)
