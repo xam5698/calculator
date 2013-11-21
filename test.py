@@ -3,5 +3,6 @@
 # Travis Adair
 # Joseph Drake
 # Xylonah Stott
-#Logan Hirschi
+# Logan Hirschi
 # Ryan Barlow
+# Max McCarroll 
