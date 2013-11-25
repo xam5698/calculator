@@ -13,3 +13,4 @@
 # Christian Loredo
 # Smitty Werbenmenjensen (Deyge)
 # Jonathan page
+# Josh is a brony
