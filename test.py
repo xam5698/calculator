@@ -14,3 +14,4 @@
 # Smitty Werbenmenjensen (Deyge)
 # Jonathan page
 # Josh is a brony
+# Yes, he is
